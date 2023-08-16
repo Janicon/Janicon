@@ -9,9 +9,9 @@ The collapsed section contains the list of my major university projects.
   
 | Year | Repository Name | Language | Description |
 |-:|-|-|-|
-| 1.1 | ccprog1-mp | C | A bus booking application |
-| 1.2 | ccprog2-mp | C | A CLI-based modified version of **Snakes and Ladders** |
-| 1.3 | ccprog3-mp | Java | A variation of **Game of Life** with GUI |
+| 1.1 | [ccprog1-mp](https://github.com/Janicon/ccprog1-mp) | C | A bus booking application |
+| 1.2 | [ccprog2-mp](https://github.com/Janicon/ccprog2-mp) | C | A CLI-based modified version of **Snakes and Ladders** |
+| 1.3 | [ccprog3-mp](https://github.com/Janicon/ccprog3-mp) | Java | A variation of **Game of Life** with GUI |
 | 2.2 | [2021T2](https://github.com/DLSU-CCAPDEV/2021T2-G02) | Javascript | Private repository. Web application for purchasing books and movies |
 | 2.3 | [S11-Team5](https://github.com/john-rey-edralin/S11-Team5) | Javascript | Web application for inventory system |
 | 2.3 | [Tinappay3](https://github.com/deansaril/Tinappay3) | Java | A mobile baking recipe and inventory app |
